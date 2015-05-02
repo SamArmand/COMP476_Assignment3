@@ -1,0 +1,24 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 5100 (ID=0xa2e)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SamArmand\Documents\COMP476_Assignment3\pacman_Data\Managed\System.dll (this message is harmless)
+The connection request to 132.205.95.36:35000 failed. Are you sure the server can be connected to?
+ 
+(Filename:  Line: 650)
+
